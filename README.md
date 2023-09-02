@@ -3,8 +3,11 @@ This website allows users to convert temperatures between Celsius, Fahrenheit, a
 
 Features:
 -> Enter the temperature in any of the three units (Celsius, Fahrenheit, or Kelvin).
+
 -> The converted temperature will be displayed in the other two units.
+
 -> The website is responsive, so it can be used on any device.
+
 -> The code is well-commented, so it is easy to understand and modify.
 
 Here are the steps involved in creating this website:
